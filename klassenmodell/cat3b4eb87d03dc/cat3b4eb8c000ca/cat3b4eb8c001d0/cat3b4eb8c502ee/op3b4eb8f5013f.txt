@@ -1,0 +1,2 @@
+ EinzelSearchTermPanel entfernen
+@see EinzelSearchTermPanel

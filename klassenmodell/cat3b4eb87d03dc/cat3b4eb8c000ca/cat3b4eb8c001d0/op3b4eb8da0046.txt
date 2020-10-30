@@ -1,0 +1,7 @@
+Hilfsfunktion, die prüft, ob der angegebene Name
+      *  Sonderzeichen enthält, die ungültig sind -
+      *  d.h. SPACE und Komma - wegen StringTokenizer,
+      *  der nach ", " parst
+@param String zuPruefenderName
+@return void
+@exception UngueltigerName

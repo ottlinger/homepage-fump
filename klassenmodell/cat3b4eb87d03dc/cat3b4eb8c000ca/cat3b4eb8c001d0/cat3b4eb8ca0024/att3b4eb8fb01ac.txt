@@ -1,0 +1,1 @@
+static JEditorPane pane = new JEditorPane();

@@ -1,0 +1,7 @@
+@author Markus Hindorf / Philipp Ottlinger
+@version $Id: FilterTabellenModell.java,v 1.5 2001/07/11 14:39:55 ottlinge Exp $
+<h1><b>"exclusively designed for Lasse the guy with the Fortschrittsbalken"</h1></b>
+FilterTabellenModel - derzeit zum testen beinhaltet
+das nur drei Dummymails - diese muessen noch
+mit Methoden der Mailklasse in die Tabelle geladen
+werden

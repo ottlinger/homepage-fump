@@ -1,0 +1,4 @@
+Hilfsfunktion: gibt String an den aktuellen Koordinaten zurück
+@param int reihe, int spalte
+@return Object
+@exception

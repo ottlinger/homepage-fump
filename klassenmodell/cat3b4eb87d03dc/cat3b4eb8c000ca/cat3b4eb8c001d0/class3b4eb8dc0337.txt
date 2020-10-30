@@ -1,0 +1,2 @@
+@author Markus Hindorf / Philipp Ottlinger
+@version $Id: OrdnerOberflaeche.java,v 1.31 2001/07/11 19:08:00 ottlinge Exp $

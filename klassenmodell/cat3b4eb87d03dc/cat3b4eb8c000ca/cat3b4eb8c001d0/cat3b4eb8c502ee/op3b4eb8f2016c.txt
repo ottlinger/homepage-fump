@@ -1,0 +1,1 @@
+Verarbeite Filter aus Filter-Editor nach abgeschlossener Bearbeitung.

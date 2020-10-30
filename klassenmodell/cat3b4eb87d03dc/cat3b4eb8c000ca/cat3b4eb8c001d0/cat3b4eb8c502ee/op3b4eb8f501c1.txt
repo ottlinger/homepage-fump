@@ -1,0 +1,4 @@
+ SearchTerm ausgeben
+@param ausdruck
+@exception SearchException
+@returns SearchTerm

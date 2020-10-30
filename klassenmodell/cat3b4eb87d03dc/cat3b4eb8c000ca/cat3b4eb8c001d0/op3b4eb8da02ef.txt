@@ -1,0 +1,4 @@
+Hilfsfunktion: setzt Name und Pfad der Quelldatei zur Serialisierung zurueck
+@param String
+@return
+@exception

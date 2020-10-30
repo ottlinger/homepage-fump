@@ -1,0 +1,4 @@
+Name des aktuellen Ordners zurueckgeben
+@param
+@return String
+@exception

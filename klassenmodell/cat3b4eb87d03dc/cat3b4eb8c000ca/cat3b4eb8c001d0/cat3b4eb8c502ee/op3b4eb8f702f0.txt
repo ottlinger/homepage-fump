@@ -1,0 +1,1 @@
+Behandelt Suchfortschritts-Ereignisse und updated die ProgressBar.

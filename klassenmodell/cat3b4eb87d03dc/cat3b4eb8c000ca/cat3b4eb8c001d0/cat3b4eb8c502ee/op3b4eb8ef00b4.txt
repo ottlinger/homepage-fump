@@ -1,0 +1,3 @@
+ Zielknoten zur Ablage ausgeben
+@return TreePath Pfad des Zeilknotens zur Ablage einer gefilterten Mail
+@exception IllegalAccessException

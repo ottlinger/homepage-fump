@@ -1,0 +1,2 @@
+Gibt den ausgelösten Fehler als String zurück.
+@return String Fehlermeldung.

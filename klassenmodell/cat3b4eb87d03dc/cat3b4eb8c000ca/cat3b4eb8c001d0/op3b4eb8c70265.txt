@@ -1,0 +1,2 @@
+Gibt den ausgelösten Fehlercode zurück.
+@return int Fehlercode.

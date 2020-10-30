@@ -1,0 +1,4 @@
+Zielknoten zum Verschieben setzen
+@param knoten Zielpfad zum Verschieben
+@return void
+@exception IllegalArgumentException

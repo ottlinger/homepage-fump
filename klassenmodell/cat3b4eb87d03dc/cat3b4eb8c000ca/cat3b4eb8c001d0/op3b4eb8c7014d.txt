@@ -1,0 +1,2 @@
+Speichert vorhandene Benutzer in di Datei users.conf.
+@exception IOException bei Schreibfehlern in der users.conf.

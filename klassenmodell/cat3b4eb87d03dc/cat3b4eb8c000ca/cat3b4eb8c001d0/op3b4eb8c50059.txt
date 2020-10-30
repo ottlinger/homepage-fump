@@ -1,0 +1,4 @@
+liefert den Index des Nachfolgers (child) im aktuellen Knoten (parent)
+@param Object parent, Object child
+@return int
+@exception

@@ -1,0 +1,3 @@
+GUI-Klasse. Verwalten der Filter eines Benutzers
+@author Voss, Stollberg, Krause, Lueck
+@version $Id: FilterKontainerView.java,v 1.5 2001/07/11 15:56:56 stollber Exp $

@@ -1,0 +1,5 @@
+ * @author B. Hentrich, J. K. Olesen
+ * @version $Id: Benutzer.java,v 1.16 2001/07/11 18:59:51 olesen Exp $
+
+
+*Stellt Funktionen zur Kommunikation zwischen den einzelnen Komponenten von FUMP her.

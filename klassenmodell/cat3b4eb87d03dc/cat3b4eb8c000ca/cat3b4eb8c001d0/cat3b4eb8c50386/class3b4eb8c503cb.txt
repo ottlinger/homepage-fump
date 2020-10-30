@@ -1,0 +1,2 @@
+@author Marc Scherfenberg, Florian Brötzmann
+@version $Id: KontoContainer.java,v 1.15 2001/07/11 19:02:04 olesen Exp $

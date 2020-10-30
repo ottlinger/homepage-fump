@@ -1,0 +1,6 @@
+MailOberflaeche-main:
+ erzeugt das Panel mit der Mailtabelle und zeigt
+ es zur Demonstration an
+@param
+@return
+@exception

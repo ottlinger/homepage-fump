@@ -1,0 +1,5 @@
+Löscht den Benutzer mit allen zugehörigen Dateien.
+@param name der Benutzername.
+@param password das Passwort.
+@exception InputException wenn das Password falsch ist.
+@exception IOException Bei Schreibfehlern in users.conf.

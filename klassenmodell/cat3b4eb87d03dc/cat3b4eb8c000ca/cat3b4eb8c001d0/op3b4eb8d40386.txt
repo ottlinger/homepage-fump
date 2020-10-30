@@ -1,0 +1,4 @@
+aktuelles Subjekt zurückgeben
+@param
+@return String
+@exception MessagingException, wenn null

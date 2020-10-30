@@ -1,0 +1,3 @@
+Überprüft, ob Benutzer existiert.
+@param name der zu prüfende Benutzername.
+@return boolean, true = Benutzer gibt es, false sonst.

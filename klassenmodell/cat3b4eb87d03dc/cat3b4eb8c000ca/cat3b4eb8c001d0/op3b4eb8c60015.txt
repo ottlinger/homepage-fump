@@ -1,0 +1,5 @@
+Constructor
+ruft Constructoren von Adressbuch, KontoContainer, FilterContainer, Ordneroberflaeche auf.
+@param name der Benutzername.
+@param path Speicherpfad für Benutzerdateien.
+@param existiert true=Benutzer hat bereits Benutzerdateien, false sonst.

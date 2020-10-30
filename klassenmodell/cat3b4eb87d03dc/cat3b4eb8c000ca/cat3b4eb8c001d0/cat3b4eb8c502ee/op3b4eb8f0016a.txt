@@ -1,0 +1,3 @@
+  Erstellung eines neuen Filters
+ @param filter der neue Filter
+@exception IllegalArgumentException

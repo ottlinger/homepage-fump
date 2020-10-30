@@ -1,0 +1,4 @@
+liefert den index-ten Nachfolger des angegebenen parent-Knotens
+@param Object param, int index
+@return Object
+@exception

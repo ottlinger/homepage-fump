@@ -1,0 +1,4 @@
+Legt ein neues Benutzer-Objekt als aktuellen Benutzer an.
+@param name der Benutzername.
+@param password das Passwort.
+@exception InputException wenn das Passwort nicht stimmt.

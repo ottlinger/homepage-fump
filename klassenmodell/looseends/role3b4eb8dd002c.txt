@@ -1,0 +1,1 @@
+Baummodell, wichtig für De/Serialisierung

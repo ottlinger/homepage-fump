@@ -1,0 +1,5 @@
+Konstruktor3 - gibt zum uebergebenen Benutzername den serialisierten Ordner
+zurueck
+@param: String benutzername, String serialisierteDatei
+@return void
+@exception IOException, wenn Datei nicht existiert

@@ -1,0 +1,4 @@
+Konstruktor1 - erstellt neuen Ordner mit name unter pfad
+@param: String name, String besitzer,Vector pfad, Ordner vorgaenger
+@return void
+@exception

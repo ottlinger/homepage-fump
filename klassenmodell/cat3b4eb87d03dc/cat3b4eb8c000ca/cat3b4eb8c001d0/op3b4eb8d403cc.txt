@@ -1,0 +1,4 @@
+aktuellen Absender zurückgeben
+@param
+@return String
+@exception MessagingException, wenn null

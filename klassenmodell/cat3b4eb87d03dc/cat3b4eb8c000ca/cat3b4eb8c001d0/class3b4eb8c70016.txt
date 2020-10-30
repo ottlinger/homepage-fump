@@ -1,0 +1,2 @@
+@author B. Hentrich, J.K.Olesen
+@version $id$

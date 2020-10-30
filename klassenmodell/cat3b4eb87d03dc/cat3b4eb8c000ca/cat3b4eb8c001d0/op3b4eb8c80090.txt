@@ -1,0 +1,3 @@
+@param String name		Name des Eintrags
+@param String alias	Alias des Eintrags
+@param boolean istGruppe		ob der Eintrag eine Gruppe oder Person ist

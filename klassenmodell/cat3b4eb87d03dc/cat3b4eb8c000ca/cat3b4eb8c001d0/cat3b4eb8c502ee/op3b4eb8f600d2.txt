@@ -1,0 +1,2 @@
+Returns if search is complete.
+@return search done

@@ -1,0 +1,5 @@
+Hilfsfunktion, die festsetzt, ob Nachricht gelesen wurde
+setStatus() - gelesen (j/n)
+@param boolean
+@return
+@exception

@@ -1,0 +1,2 @@
+ Löscht einen Filter
+@param filterName der zu löschende Filter

@@ -1,0 +1,2 @@
+Gibt alle bekannten Benutzernamen zurück.
+@return DefaultComboBoxModel, enthält alle Benutzernamen.

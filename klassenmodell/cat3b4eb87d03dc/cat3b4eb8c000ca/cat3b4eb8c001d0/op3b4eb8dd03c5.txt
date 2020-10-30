@@ -1,0 +1,8 @@
+Hilfsfunktion: zur Anzeige der letzten Spalte mit Checkbox
+ @param int position
+ @return Class
+ @exception
+JTable uses this method to determine the default renderer/
+editor for each cell.  If we didn't implement this method,
+then the last column would contain text ("true"/"false"),
+rather than a check box.

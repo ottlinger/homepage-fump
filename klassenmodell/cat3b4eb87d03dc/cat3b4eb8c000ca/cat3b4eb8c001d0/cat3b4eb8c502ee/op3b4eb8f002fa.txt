@@ -1,0 +1,2 @@
+*  Speichert den kompletten Kontainer in die default Datei.
+@return boolean <code>true</code> bei erfolgreicher Speicherung

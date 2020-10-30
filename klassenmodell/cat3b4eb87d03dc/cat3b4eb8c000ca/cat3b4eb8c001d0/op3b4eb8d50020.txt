@@ -1,0 +1,4 @@
+Hilfsfunktion: Vergleiche Zielpfad mit aktuellem Pfad und pruefe auf Fehler
+@param Vector neuer Pfad
+@return Ordner - Zielpfadordner
+@exception UngueltigerPfad

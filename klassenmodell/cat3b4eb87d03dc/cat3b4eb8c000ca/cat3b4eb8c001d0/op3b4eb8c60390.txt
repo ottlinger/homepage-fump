@@ -1,0 +1,4 @@
+Überprüft Passwort/Benutzer Zuordnung.
+@param name der zu prüfende Benutzername.
+@param password das dazugehörige Password.
+@return boolean, true = Password stimmt, false sonst.

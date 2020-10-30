@@ -1,0 +1,2 @@
+@param String name		Name des Eintrags
+@param boolean istGruppe		ob der Eintrag eine Gruppe oder Person ist

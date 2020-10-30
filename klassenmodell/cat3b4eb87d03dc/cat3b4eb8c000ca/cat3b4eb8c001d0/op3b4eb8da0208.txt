@@ -1,0 +1,5 @@
+Hilfsfunktion: entfernt zuLoeschendeMail aus diesem Ordner
+TODOLIST: eventuell nicht public, da sonst jeder Mail loeschen kann ???
+@param Mail zuLoeschendeMail
+@return
+@exception

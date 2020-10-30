@@ -1,0 +1,3 @@
+Wandelt ein char[] in einen String, Hilfsfunktion zur Umwandlung der Passwörter.
+@param char[]c ein Character Array.
+@return String das Passwort als String.

@@ -1,0 +1,1 @@
+Konstruktor zum Laden der aktuellen Maildaten

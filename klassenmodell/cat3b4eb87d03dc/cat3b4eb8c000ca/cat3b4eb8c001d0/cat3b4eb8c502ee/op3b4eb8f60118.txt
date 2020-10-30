@@ -1,0 +1,2 @@
+Adds a change listener. Since only one listener is supported, this overwrites any
+previously defined listeners.

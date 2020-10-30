@@ -1,0 +1,2 @@
+Searches the collection of folders contained in <code>ordner</code>.
+@return matching mails, may be empty

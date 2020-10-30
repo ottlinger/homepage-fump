@@ -1,0 +1,8 @@
+ Konstruktor
+ erzeugt anhand des übergebenen Message-Objekts ein
+ FUMP-Mail-Objekt
+
+ @param Message originalNachricht
+
+ evtl. in Zukunft noch irgendwas mit dem Pfad und vorgaenger
+ und so - ist aber noch nicht komplett durchdacht ;-)

@@ -1,0 +1,7 @@
+Hilfsfunktion: serialisert aktuelle Ordnerstruktur -
+ damit alles gespeichert wird, sollte diese
+ Prozedur auf dem WURZEL-Ordner aufgerufen werden
+ -> zZt zu speichernder Ordner als Parameter
+@param Ordner ord
+@return
+@exception IOException

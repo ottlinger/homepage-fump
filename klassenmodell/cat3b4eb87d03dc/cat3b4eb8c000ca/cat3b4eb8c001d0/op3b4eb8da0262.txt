@@ -1,0 +1,5 @@
+Hilfsfunktion: fügt dem aktuellen Ordner
+ das übergebene Mailobjekt ohne Fehlerprüfung hinzu
+@param Mail neuesElement
+@return
+@exception

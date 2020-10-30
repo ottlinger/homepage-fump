@@ -1,0 +1,5 @@
+kopierenOberflaeche-Konstruktor
+ erzeugt das Panel mit der Baumdarstellung als JTree
+@param JTree anzuzeigenderOrdnerbaum, String operation
+@return
+@exception

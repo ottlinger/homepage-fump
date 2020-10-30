@@ -1,0 +1,4 @@
+ Konstruktor
+@param filter Filterobjekt, dass editiert wird
+@param e derjenige, der diese Klasse aufruft
+@exception IllegalAccessException

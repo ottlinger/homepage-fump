@@ -1,0 +1,2 @@
+@author Marc Scherfenberg, Florian Brötzmann
+@version $Id: Konto.java,v 1.16 2001/07/11 18:35:36 ottlinge Exp $

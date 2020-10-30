@@ -1,0 +1,2 @@
+ 2. Konstruktor: Aktion verschieben
+@param TreePath Pfad des Zeilknotens zur Ablage einer gefilterten Mail

@@ -1,0 +1,4 @@
+Hilfsfunktion: gibt Anzahl der Spalten zurück
+@param
+@return int
+@exception

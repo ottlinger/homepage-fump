@@ -1,0 +1,2 @@
+Gibt den aktuellen Benutzer von FUMP zurück.
+@return Benutzer, der aktuellen Benutzer.

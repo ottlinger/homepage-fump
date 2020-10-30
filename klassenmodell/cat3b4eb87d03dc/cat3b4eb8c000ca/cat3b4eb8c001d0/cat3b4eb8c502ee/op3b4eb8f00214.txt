@@ -1,0 +1,3 @@
+ Führt alle aktiven Filter über eine Message aus
+@param msg zu evaluierende Message (zu deutsch: elektronische Nachricht)
+@return FilterAktion wenn NULL, dann paßt kein Filter ; sonst wird entsprechende FilterAktion zurückgegeben.

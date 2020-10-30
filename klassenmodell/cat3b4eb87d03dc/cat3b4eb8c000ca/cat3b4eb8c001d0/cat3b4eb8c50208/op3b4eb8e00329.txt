@@ -1,0 +1,1 @@
+Konstruktor um eine Mail zu lesen

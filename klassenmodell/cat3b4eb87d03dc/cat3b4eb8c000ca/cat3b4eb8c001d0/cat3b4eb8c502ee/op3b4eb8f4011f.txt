@@ -1,0 +1,3 @@
+ Konstruktor
+@param caller derjenige, der diese Klasse aufruft
+@exception IllegalAccessException

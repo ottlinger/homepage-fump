@@ -1,0 +1,4 @@
+Hilfsfunktion: gibt aktuellen Pfad als Vector zurück
+@param
+@return Vector
+@exception

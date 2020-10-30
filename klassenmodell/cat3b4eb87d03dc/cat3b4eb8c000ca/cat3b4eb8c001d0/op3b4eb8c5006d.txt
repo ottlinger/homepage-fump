@@ -1,0 +1,4 @@
+haengt neues Objekt ein (bei path) und loest treeNodeChanged-Event aus
+@param TreePath parent, Object newValue
+@return
+@exception

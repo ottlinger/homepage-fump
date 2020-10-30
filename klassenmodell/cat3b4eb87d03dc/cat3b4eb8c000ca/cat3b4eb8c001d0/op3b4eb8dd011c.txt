@@ -1,0 +1,7 @@
+fuegt ein neues Message-Objekt in die Ordnerstruktur
+ an die im uebergebenen Pfad angegebene Stelle ein
+ wird von Mails-Abrufen-Leuten aufgerufen
+ um die Mail an die richtige Stelle in Ordnerstruktur zu platzieren
+@param Message neuesMessageObject, TreePath pfad
+@return
+@exception UngueltigerPfad, IOExceptionMessagingException

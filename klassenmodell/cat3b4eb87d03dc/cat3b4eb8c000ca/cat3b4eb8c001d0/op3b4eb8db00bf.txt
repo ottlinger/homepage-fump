@@ -1,0 +1,5 @@
+Ausgabe der Baumstruktur auf Konsole fuer Testzwecke geeignet
+ gibt nur eine "flache Ausgabe des Wurzelordners" - keine Komplettansicht
+@param
+@return void
+@exception void

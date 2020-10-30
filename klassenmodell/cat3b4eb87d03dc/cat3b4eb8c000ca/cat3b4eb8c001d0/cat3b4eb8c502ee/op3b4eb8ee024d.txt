@@ -1,0 +1,5 @@
+ Konstruktor mit 4 Parametern
+@param ausdruck der SearchTerm des Filters
+@param name Filtername
+@param status Aktivierungsstatus des Filters
+@param aktion definierte Filterauktion

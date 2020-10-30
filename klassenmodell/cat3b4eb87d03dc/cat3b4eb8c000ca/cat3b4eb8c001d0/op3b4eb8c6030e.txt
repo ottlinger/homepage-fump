@@ -1,0 +1,3 @@
+*Constructor
+*Ruft init() auf
+@see #init

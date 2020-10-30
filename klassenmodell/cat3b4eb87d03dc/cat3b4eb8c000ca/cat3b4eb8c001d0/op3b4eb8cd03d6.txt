@@ -1,0 +1,5 @@
+Steuerung des Zusammenspiels zwischen Ordner und dieser Hilfsoberfläche ;-)
+NOCH NICHT AUSGEREIFT - Philipp 2001-07-10
+@param
+@return
+@exception

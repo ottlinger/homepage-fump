@@ -1,0 +1,4 @@
+ *  Auslesen des konkreten SearchTerms / Unterklasse der Instanz
+ * @param ausdruck der SearchTerm
+ * @exception IllegalArgumentException
+@returns SearchTerm

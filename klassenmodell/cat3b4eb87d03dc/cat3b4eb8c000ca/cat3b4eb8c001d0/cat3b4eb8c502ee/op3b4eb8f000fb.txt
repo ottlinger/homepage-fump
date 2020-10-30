@@ -1,0 +1,4 @@
+ Erstetzt existenten Filter
+@param filter der neue Filter
+@param filterName der existente Filtername
+@exception IllegalArgumentException

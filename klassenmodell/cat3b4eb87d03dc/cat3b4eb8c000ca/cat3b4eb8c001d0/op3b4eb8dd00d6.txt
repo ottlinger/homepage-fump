@@ -1,0 +1,5 @@
+gibAktPfad
+ gibt den aktuellen Pfad zurueck
+@param
+@return TreePath
+@exception JTreeLaeuftNichtRichtig

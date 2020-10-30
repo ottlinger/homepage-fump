@@ -1,0 +1,4 @@
+Hilfsfunktion: gibt aktuellen Spaltennamen zurück
+@param int spalte
+@return String
+@exception

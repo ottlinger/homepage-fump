@@ -1,0 +1,7 @@
+Konstruktor
+@param Ordner
+@return JScrollpane
+@exception
+statische Methode, die ein JComponent bzw. JScrollpane
+zurueckgibt; dieses muﬂ dann einfach auf JScrollpane gecastet
+werden und kann eingesetzt werden

@@ -1,0 +1,3 @@
+GUI-Klasse. Fenster zum Suchen.
+@author	Voss, Stollberg
+@version 	$Id: SucheView.java,v 1.8 2001/07/11 16:58:41 stollber Exp $

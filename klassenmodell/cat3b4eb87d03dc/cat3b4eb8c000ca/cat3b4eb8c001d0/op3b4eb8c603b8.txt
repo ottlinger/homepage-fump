@@ -1,0 +1,3 @@
+Gibt den Pfad zu einem Benutzernamen zurück.
+@param name der Benutzername.
+@return String der Speicherpfad.

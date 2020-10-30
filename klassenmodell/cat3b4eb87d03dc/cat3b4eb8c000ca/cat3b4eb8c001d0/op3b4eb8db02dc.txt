@@ -1,0 +1,5 @@
+<code>Mail neueMail</code> wird in MUELL geschmissen -
+ wenn Ordner nicht root -> Exception
+@param  Mail neueMail
+@return void
+@exception UngueltigerPfad

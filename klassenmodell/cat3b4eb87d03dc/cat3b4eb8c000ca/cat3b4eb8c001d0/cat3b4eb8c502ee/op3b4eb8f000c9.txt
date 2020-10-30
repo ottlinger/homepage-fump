@@ -1,0 +1,3 @@
+Überprüft Existenz eines Filters.
+@param filterName
+@return Boolean

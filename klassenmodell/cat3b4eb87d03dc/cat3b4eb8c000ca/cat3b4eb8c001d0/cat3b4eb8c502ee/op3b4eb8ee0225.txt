@@ -1,0 +1,1 @@
+Protected Konstruktor ohne Parameter (wird fuer Serialisierung benoetigt).

@@ -1,0 +1,4 @@
+JTreeLaeuftNichtRichtig-Exception
+ *  wenn ein Doedel versucht auf der Oberflaeche
+ *  zu arbeiten, obwohl diese noch nicht da ist
+WIRD DIESE	 Exception geworfen

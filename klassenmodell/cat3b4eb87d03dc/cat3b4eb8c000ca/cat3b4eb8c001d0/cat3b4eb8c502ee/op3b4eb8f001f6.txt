@@ -1,0 +1,2 @@
+  Sammelt alle Filter in einem Iterator.
+@return Iterator  der Iterator mit allen Filterchens

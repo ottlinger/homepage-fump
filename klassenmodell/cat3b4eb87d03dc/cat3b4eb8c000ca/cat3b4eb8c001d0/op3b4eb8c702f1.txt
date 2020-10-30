@@ -1,0 +1,2 @@
+@param String dateiname		liest Datei dateiname ein
+@return Vector mit in dateiname stehenden Eintraegen

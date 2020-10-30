@@ -1,0 +1,1 @@
+Instantiiert einen neuen FilterKontainer

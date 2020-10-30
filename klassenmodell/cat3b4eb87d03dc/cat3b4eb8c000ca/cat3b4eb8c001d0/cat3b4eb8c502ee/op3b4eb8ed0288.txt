@@ -1,0 +1,2 @@
+ 2. Konstruktor ohne Parameter
+@param ausdruck ein SearchTerm

@@ -1,0 +1,4 @@
+kopieren einer Mail in einen uebergebenen Pfad
+@param Vector neuerPfad
+@return void
+@exception UngueltigerPfad, DoppelterName

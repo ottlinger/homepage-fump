@@ -1,0 +1,3 @@
+ *  Laedt den kompletten Kontainer aus einer Datei.
+@param fileName Dateiname
+ * @return boolean <code>true</code> beim erfolgreichen Laden

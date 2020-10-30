@@ -1,0 +1,4 @@
+liefert die anzahl der nachfolger fuer den parent-Knoten
+@param  Object parent
+@return int
+@exception

@@ -1,0 +1,6 @@
+gibAktuelleWurzelAlsObjekt
+ gibt den aktuellen Pfad zurueck -
+ dient zur Kommunikation mit MailOberflaeche
+@param
+@return Ordner
+@exception JTreeLaeuftNichtRichtig

@@ -1,0 +1,5 @@
+aktuelle Mail loeschen
+@param
+@return void
+@exception ObjectIstGeschuetzt
+(im Prinzip ungenutzt, da keine geschuetzten Mails existieren)

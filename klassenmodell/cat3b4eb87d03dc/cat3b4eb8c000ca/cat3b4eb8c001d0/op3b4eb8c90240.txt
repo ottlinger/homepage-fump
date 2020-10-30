@@ -1,0 +1,4 @@
+Hilfsfunktion: aktualisiert die Tabelle und Ihre Mails darin
+@param Vector der Mailobjekte des aktuellen Ordners
+@return
+@exception

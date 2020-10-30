@@ -1,0 +1,3 @@
+Search progress in percent. Actually this is the percentage of folders searched, the effort
+to build the initial folder list is not included.
+@return percentage

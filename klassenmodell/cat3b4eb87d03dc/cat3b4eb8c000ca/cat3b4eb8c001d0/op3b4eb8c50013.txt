@@ -1,0 +1,5 @@
+Pruefen, ob node ein Blatt ist -
+ ist wichtig fuer Symboldarstellung
+@param node
+@return boolean
+@exception

@@ -1,0 +1,1 @@
+Öffne Filter zum editieren in einem neuen Fenster.

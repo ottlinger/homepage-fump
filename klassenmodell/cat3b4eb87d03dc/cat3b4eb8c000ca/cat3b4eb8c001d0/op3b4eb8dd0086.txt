@@ -1,0 +1,5 @@
+OrdnerOberflaeche-main:
+ erzeugt ein DUMMY-Panel (User:nobody) mit der Baumdarstellung als JTree
+@param
+@return
+@exception

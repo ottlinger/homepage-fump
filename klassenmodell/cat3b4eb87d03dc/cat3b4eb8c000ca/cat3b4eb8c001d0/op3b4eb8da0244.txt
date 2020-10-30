@@ -1,0 +1,4 @@
+Hilfsfunktion: entfernt alle Mails aus diesem Ordner
+@param
+@return
+@exception

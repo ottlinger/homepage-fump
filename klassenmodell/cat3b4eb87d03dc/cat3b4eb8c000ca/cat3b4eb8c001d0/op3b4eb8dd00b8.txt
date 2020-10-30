@@ -1,0 +1,6 @@
+setzeAktZielPfad
+ setzt den aktuellen Zielpfad auf pfad
+ dient zur Kommunikation mit KopierenOberflaeche
+@param TreePath pfad
+@return void
+@exception JTreeLaeuftNichtRichtig

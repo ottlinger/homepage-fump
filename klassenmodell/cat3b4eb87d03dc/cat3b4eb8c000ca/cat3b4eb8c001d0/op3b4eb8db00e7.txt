@@ -1,0 +1,5 @@
+Tiefe Kopie des aktuellen Ordners im Zielpfad erstellen -
+nicht implementiert nur drin wegen Interface
+@param
+@return void
+@exception UngueltigerPfad, DoppelterName

@@ -1,0 +1,2 @@
+Gibt den Speicherpfad des Benutzers zurück.
+@return String der Speicherpfad.

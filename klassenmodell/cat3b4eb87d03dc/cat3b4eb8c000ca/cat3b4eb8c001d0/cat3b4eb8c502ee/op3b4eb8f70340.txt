@@ -1,0 +1,2 @@
+Suche durchführen.
+@exception SearchException Fehler beim suchen

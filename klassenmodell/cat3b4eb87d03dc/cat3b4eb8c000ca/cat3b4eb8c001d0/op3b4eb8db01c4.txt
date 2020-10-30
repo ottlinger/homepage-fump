@@ -1,0 +1,5 @@
+Hilfsmethode, die ein Objekt zurueckgibt, auf das der uebergebene
+TreePath zeigt
+@param TreePath
+@return Ordner-Objekt
+@exception   UngueltigerPfad

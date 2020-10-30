@@ -1,0 +1,2 @@
+ Flag ausgeben
+@return int des Flag

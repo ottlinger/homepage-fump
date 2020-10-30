@@ -1,0 +1,1 @@
+@param boolean isGroup		ob der Eintrag eine Gruppe oder Person ist

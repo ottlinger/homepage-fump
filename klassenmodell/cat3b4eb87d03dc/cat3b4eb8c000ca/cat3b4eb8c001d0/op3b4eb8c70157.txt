@@ -1,0 +1,3 @@
+Lieﬂt die Datei users.conf ein.
+@exception IOEXception bei Lesefehlern der users.conf.
+@exception NoSuchElementException als Folge von Syntaxfehlern in der users.conf.

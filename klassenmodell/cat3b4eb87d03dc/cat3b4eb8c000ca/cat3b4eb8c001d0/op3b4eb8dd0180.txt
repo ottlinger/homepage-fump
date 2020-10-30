@@ -1,0 +1,7 @@
+statisches Speichern des root-Ordners ermöglichen,
+damit man beim Programmbeenden die Sachen speichert :
+Stimmen Benutzername/Pfad nicht, oder ist kein <code>root</code>
+verfügbar, wird die Exception <code>JTreeLaeuftNichtRichtig</code> geworfen
+@param
+@return
+@exception JTreeLaeuftNichtRichtig

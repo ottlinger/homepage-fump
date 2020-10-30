@@ -1,0 +1,2 @@
+@author Markus Hindorf / Philipp Ottlinger
+@version $Id: Mail.java,v 1.13 2001/07/11 16:15:03 ottlinge Exp $

@@ -1,0 +1,2 @@
+@author Markus Hindorf / Philipp Ottlinger
+@version $Id: LasseKlasse.java,v 1.2 2001/07/11 14:39:55 ottlinge Exp $

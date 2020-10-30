@@ -1,0 +1,5 @@
+setzeAktPfad
+ setzt den aktuellen Pfad auf pfad
+@param TreePath pfad
+@return void
+@exception JTreeLaeuftNichtRichtig

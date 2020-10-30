@@ -1,0 +1,4 @@
+aktuellen Ordner in neuerName umbenennen mit Fehlerpruefung
+@param String neuerName
+@return void
+@exception  ObjektIstGeschuetzt, DoppelterName, UngueltigerName

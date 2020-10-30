@@ -1,0 +1,10 @@
+Konstruktor2 - erstellt leeren Wurzelordner mit den 4 standardordnern
+     * Das sind in Wurzel:
+     * 1.Eingang
+     * 2.Ausgang
+     * 3.Muell
+     * 4.Gesendet
+     * 5.Suchergebnisse
+@param:
+@return void
+@exception

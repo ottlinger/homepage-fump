@@ -1,0 +1,2 @@
+Returns all matching mails.
+@return matching mails (Vector of com.fump.Mail)

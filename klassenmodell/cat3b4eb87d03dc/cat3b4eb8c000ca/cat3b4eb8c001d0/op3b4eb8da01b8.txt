@@ -1,0 +1,4 @@
+aktuellen Ordner loeschen
+     * @param
+@return void
+@exception ObjektIstGeschuetzt

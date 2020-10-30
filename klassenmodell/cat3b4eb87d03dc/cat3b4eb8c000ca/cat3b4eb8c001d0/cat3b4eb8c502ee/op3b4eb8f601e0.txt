@@ -1,0 +1,2 @@
+Returns mails from folder <code>ordner</code> that match <code>searchTerm</code>.
+@return matching mails, may be null if no mails match

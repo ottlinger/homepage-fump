@@ -1,0 +1,7 @@
+InhaltOberflaeche-main:
+ erzeugt das Panel mit dem Mailinhalt und zeigt
+ es zur Demonstration an, wenn Param ungültig ist,
+ passiert nichts
+@param
+@return
+@exception

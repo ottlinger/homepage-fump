@@ -1,0 +1,2 @@
+@author Markus Hindorf / Philipp Ottlinger
+@version $Id: MailOberflaeche.java,v 1.10 2001/07/11 18:40:55 ottlinge Exp $

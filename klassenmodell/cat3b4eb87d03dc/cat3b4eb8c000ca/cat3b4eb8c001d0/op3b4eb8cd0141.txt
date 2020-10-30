@@ -1,0 +1,7 @@
+Hilfsfunktion: gibt uebergebenen TreePath als Vector der
+richtigen Objektreferenzen zurueck, damit man
+damit arbeiten kann und Zugriff auf die richtigen Ordner/Mailinhalte
+hat und nicht nur den Namen als String
+ * @param TreePath aktPfad
+ * @return Vector (von Ordner- Objekten)
+ * @exception   UngueltigerPfad

@@ -1,0 +1,8 @@
+OrdnerOberflaeche-zeigeOrdner
+ *  gibt statisch ein ScrollPanel mit dem aktuellen Ordner
+ *  zurueck als Jtree mit Menuestruktur
+Aus dem übergebenen Benutzernamen user wird versucht,
+die Ordnerstruktur mit Mails zu deserialisieren
+ * @param String user
+ * @return JComponent (eigentlich JScrollPane)
+ * @exception

@@ -1,0 +1,2 @@
+ neues EinzelSearchTermPanel hinzufügen
+@see EinzelSearchTermPanel

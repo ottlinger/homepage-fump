@@ -1,0 +1,4 @@
+Wurzel zurueckgeben
+@param
+@return Object
+@exception

@@ -1,0 +1,6 @@
+*@author J.K.Olesen, B. Hentrich
+*@version $id
+
+Zweck der Klasse User ist es, nicht für jeden Benutzer von Fump
+*ein vollständiges Benutzer-Objekt im Speicher zu halten. User hält nur den
+*Namen, das Passwort und den Speicherpfad des Benutzers bereit.

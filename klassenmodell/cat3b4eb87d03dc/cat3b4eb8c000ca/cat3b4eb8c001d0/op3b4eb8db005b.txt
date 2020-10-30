@@ -1,0 +1,4 @@
+wichtig fuer GUI - gibt alle Mails des aktuellen Ordners
+@param
+@return Vector (von Message-Objekten)
+@exception KeineMailsDa - aktueller Ordner enthaelt keine Mails

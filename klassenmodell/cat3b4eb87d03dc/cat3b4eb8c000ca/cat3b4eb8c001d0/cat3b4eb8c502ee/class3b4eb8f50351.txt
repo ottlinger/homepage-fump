@@ -1,0 +1,10 @@
+Threaded search utility.
+<p><code>
+Suche suche = new Suche(myFolder, mySearchTerm, true);
+Thread sucheThread = new Thread(suche);
+sucheThread.run();
+</code><p>
+Use addChangeListener() to receive notifications on search progress.
+
+@author Voss
+@version $Id: Suche.java,v 1.5 2001/07/11 16:58:41 stollber Exp $

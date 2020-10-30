@@ -1,0 +1,6 @@
+ * @param Exportieren des Ordners an einer Stelle
+noch nicht implementiert, eigentlich sollte hier nur
+serialisert werden <code>externSpeichern</code> also -
+als Parameter könnte eine Datei als Ziel übergeben werden
+ * @return void
+ * @exception

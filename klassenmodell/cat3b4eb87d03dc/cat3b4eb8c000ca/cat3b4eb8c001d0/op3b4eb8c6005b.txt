@@ -1,0 +1,2 @@
+Gibt den Benutzernamen zurück.
+@return String den Benutzernamen.

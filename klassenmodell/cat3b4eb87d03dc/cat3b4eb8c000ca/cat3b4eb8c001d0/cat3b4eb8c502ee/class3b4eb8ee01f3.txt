@@ -1,0 +1,3 @@
+Definition der Aktion, die auf gefilterte Mails angewendet wird. Das Objekt wird einer neuen Mail als Parameter übergeben.
+@author	Krause, Stollberg, Voss
+@version 	$Id: FilterAktion.java,v 1.4 2001/06/27 16:21:58 stollber Exp $

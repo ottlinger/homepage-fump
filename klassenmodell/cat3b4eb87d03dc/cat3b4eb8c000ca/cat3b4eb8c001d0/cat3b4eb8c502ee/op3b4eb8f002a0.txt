@@ -1,0 +1,2 @@
+ Gibt Anzahl der im Kontainer enthaltenen Filter zurueck.
+@return int Anzahl der Filter

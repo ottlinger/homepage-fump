@@ -1,0 +1,2 @@
+Initialisiert den BenutzerContainer.
+Lieﬂt die Datei users.conf ein, bei Fehlern erscheint eine ERROR_MESSAGE, dann erfolgt System.exit(0).

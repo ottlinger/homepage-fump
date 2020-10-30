@@ -1,0 +1,8 @@
+gibAktZielPfad
+ *  gibt den aktuellen Pfad zurueck -
+ *  dient zur Kommunikation mit KopierenOberflaeche
+Läuft KopierenOberflaeche nicht oder stimmt das Ergebnis
+nicht, wird KeineMarkierung geworfen
+ * @param
+ * @return TreePath
+ * @exception KeineMarkierung

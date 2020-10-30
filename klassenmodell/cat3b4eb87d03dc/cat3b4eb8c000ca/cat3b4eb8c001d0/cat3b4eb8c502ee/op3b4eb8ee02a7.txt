@@ -1,0 +1,2 @@
+Filterausführung - überschreibt die macht-Methode von SearchTerm
+@return boolean - 1, wenn Filter zuschnappt

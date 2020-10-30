@@ -1,0 +1,4 @@
+Verschiebt den aktuellen Ordner in den uebergebenen Pfad
+@param Vector neuerPfad
+@return void
+@exception  UngueltigerPfad, DoppelterName

@@ -1,0 +1,10 @@
+Ändert Benutzerdaten wie Password und Speicherpfad.
+Alle Dateien in dem Benutzerverzeichnis werden in das neue
+Benutzerverzeichnis verschoben (keine Unterordner!).
+@param name der Benutzername
+@param password das Passwort
+@param password1 das Passwort zur Überprüfung
+@param path der Speicherpfad
+@exception InputException wenn die Passwörter
+nicht übereinstimmen oder kein Passwort angegeben wurde.
+@exception IOException Bei Schreibfehlern in users.conf.

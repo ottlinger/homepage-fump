@@ -1,0 +1,2 @@
+ SearchTerm zusammenbauen
+@param ausdruck

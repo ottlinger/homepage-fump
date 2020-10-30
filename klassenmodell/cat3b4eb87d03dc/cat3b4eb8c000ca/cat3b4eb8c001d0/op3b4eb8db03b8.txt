@@ -1,0 +1,6 @@
+<code>Mail neueMail</code> wird in <code>String zielname</code> geschmissen -
+ * wenn Name unbekannt, dann Ungueltiger Pfad /
+wenn <code>istWurzel</code> gesetzt ist, wird geprüft, ob es die Wurzel ist
+ * @param  Mail neueMail, String zielname, boolean istWurzel
+ * @return void
+ * @exception UngueltigerPfad

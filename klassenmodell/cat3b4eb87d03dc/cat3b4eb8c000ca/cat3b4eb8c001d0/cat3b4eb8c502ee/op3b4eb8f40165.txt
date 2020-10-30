@@ -1,0 +1,3 @@
+gibt den alten Filternamen wieder aus -
+zu Behandlung, wenn der Name geändert wurde
+@return String der alte Name

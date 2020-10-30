@@ -1,0 +1,3 @@
+ *  Speichert den kompletten Kontainer in eine Datei.
+@param fileName Dateiname
+ * @return boolean <code>true</code> bei erfolgreicher Speicherung

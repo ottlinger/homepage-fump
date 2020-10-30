@@ -1,0 +1,5 @@
+wichtig fuer Befehle auf JTable:
+static int nummer=-1;
+beinhaltet die Zeilennummer
+static String name=null;
+Name beinhaltet derzeit nur die Betreffzeile der Nachricht

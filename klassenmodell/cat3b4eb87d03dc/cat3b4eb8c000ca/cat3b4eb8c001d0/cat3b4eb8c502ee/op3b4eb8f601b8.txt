@@ -1,0 +1,2 @@
+Returns all child folders (recursively).
+@return folders, may be empty if no child folders where found

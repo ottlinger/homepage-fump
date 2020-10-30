@@ -1,0 +1,4 @@
+ GUI-Klasse fuer einzelne Search Terms
+ Ein JPanel mit den 3 Editionsfeldern
+@author	Voss, Stollberg
+@version 	$Id: EinzelSearchTermPanel.java,v 1.6 2001/07/11 14:53:01 lueck Exp $

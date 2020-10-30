@@ -1,0 +1,5 @@
+main-
+ Anzeige eines Dummyfensters zur Auswahl des Pfades eines normalen JTree's
+@param
+@return
+@exception

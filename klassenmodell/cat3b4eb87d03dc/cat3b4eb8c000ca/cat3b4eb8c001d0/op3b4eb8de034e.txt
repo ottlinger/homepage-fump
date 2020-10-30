@@ -1,0 +1,3 @@
+@param String der Benutzername
+@param String das Passwort des Benutzers
+@param String der Specherpfad zu den Benutzerdateien

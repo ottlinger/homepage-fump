@@ -1,0 +1,4 @@
+Hilfsfunktion: gibt Anzahl der Reihen zurück
+@param
+@return int
+@exception

@@ -1,0 +1,4 @@
+Prueft, anhand des Ordnernames, ob Ordner uU schreibgeschuetzt ist
+     * @param
+@return void
+@exception ObjektIstGeschuetzt

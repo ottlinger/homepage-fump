@@ -1,0 +1,5 @@
+Hilfsfunktion: gibt das aktuelle markierte Mailobjekt zurück,
+sonst KeineMarkierungException
+@param aktuell selektierte Zeile aus Tabelle
+@return Mail
+@exception KeineMarkierung

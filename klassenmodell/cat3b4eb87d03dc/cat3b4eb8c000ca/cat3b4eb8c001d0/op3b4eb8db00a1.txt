@@ -1,0 +1,5 @@
+Ausgabe des Ordnernamen -
+ wichtig fuer JTree
+@param
+@return String
+@exception

@@ -1,0 +1,4 @@
+Konstruktor
+@param root-Ordner
+@return
+@exception

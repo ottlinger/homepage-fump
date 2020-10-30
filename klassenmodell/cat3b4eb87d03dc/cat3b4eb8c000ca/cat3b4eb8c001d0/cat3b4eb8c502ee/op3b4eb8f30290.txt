@@ -1,0 +1,3 @@
+ Filterobjekt zusammenbauen
+@return Filter
+@exception IllegalStateException

@@ -1,0 +1,5 @@
+im aktuellen Ordner wird ein Unterordner mit dem uebergebenen
+Namen angelegt
+ * @param String name, Vector pfad
+@return void
+@exception  ObjektIstGeschuetzt, DoppelterName, UngueltigerName

@@ -1,0 +1,1 @@
+@return SearchTerm SearchTerm des Filters

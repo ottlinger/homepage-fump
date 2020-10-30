@@ -1,0 +1,2 @@
+Gibt an, ob FUMP gerade gestartet wurde.
+@return boolean, true = gerade gestartet.

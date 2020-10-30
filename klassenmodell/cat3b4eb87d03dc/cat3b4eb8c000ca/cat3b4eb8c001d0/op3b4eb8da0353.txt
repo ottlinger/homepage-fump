@@ -1,0 +1,4 @@
+Hilfsfunktion: setzt Besitzer/Username dieses Objekts
+@param String nuser
+@return
+@exception

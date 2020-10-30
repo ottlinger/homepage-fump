@@ -1,0 +1,4 @@
+FilterAktion setzen
+@param aktion die Aktion eben
+@return void
+@exception IllegalArgumentException

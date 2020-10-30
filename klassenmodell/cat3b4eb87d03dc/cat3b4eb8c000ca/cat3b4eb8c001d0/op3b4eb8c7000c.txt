@@ -1,0 +1,13 @@
+Legt einen neuen Benutzer mit den Verzeichnissen/Dateien an.
+Wurde der Standardpfad mitgegeben, wird in diesem Verzeichnis ein Ordner
+mit dem Benutzernamen (Leerzeichen durch _ ersetzt), angelegt. Ansonsten
+werden alle Dateien in dem ausgewählten Verzeichnis gespeichert. Dabei werden
+fehlende Parent-Verzeichnisse ohne Nachfrage erstellt.
+Die Namen werden alphabetisch absteigend sortiert.
+@param name der Benutzername.
+@param password das Passwort.
+@param password1 das Passwort zur Überprüfung.
+@param path der Speicherpfad.
+@exception InputException wenn der Benutzer bereits existiert, die Passwörter
+nicht übereinstimmen, kein Name oder kein Passwort angegeben wurde.
+@exception IOException Bei Schreibfehlern in users.conf.

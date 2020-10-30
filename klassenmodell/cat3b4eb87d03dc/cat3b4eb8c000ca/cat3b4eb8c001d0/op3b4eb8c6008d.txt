@@ -1,0 +1,2 @@
+Gibt den KontoContainer des Benutzers zurück.
+@return KontoContainer der KontoContainer.

@@ -1,0 +1,3 @@
+Interface - einfach so reingemacht
+Funktionen, die schon sauber implementiert sind,
+finden sich weiter hinten im Code ;-) PO 20010617

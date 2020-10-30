@@ -1,0 +1,6 @@
+*@author J.K.Olesen, B. Hentrich
+*@Version $id$
+
+
+*Die Klasse BenutzerContainer stellt Methoden zur Benutzerverwaltung von FUMP zur
+*Verfügung.

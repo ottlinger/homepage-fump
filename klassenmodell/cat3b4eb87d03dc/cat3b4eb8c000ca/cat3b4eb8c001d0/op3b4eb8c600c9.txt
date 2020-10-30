@@ -1,0 +1,2 @@
+Gibt den FilterKontainer des Benutzers zurück.
+@return FilterKontainer der FilterKontainer.
